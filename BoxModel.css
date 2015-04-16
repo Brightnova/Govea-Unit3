@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {background-color:black;
+}
+h1   {color:white;
+     text-align:center;
+     font-size:300%;
+	 font-family: Papyrus,fantasy;
+}
+li {
+	color: white;
+	text-align:center;
+	font-size:200%;
+	font-family: Papyrus,fantasy;
+}
+a   {
+	text-align:center;
+}
